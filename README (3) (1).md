@@ -5,8 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=IT+Undergraduate;Java+%7C+Python+%7C+SQL;Exploring+AI+%2F+ML+with+Groq+%26+Gemini;Let's+Build+Something+Awesome!" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=IT+Undergraduate;Software+Developer;Build+AI-powered+Applications" /> </p>
 
 ---
 
@@ -23,20 +22,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/tamilselvan-k-5b5aa3341">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="[Portfolio URL]">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:tamilselvansamykvp@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/tamilselvan-k-5b5aa3341"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="[Portfolio URL]"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/> </a> <a href="mailto:tamilselvansamykvp@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/> </a> <a href="https://leetcode.com/u/Tamil0219/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="tel:+919876543210"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> </p>
 
 ---
 
