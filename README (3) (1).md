@@ -1,126 +1,148 @@
-<h1 align="center">Hi 👋, I'm Tamilselvan K</h1>
+<div align="center">
 
-<h3 align="center">
-🌐 IT Undergraduate | Passionate About Building Smart Solutions
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=SYSTEM+BOOTING...;J.A.R.V.I.S.+ONLINE;INITIALIZING+TAMILSELVAN.exe;WELCOME+TO+STARK+INDUSTRIES" alt="Typing SVG" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=IT+Undergraduate;Software+Developer;Build+AI-powered+Applications" /> </p>
+# 🔴🟡 TAMILSELVAN K 🟡🔴
+### `> IT Undergraduate | Full Stack Enthusiast | Building Smart Solutions`
 
----
+![Arc Reactor](https://img.shields.io/badge/POWER%20SOURCE-ARC%20REACTOR-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9ImdvbGQiLz48L3N2Zz4=)
+![Status](https://img.shields.io/badge/STATUS-SUIT%20UP-yellow?style=for-the-badge)
+![Location](https://img.shields.io/badge/BASE-KARUR%2C%20TAMIL%20NADU-c00000?style=for-the-badge)
 
-## 🚀 About Me
-
-- 🎓 B.Tech Information Technology student at **V.S.B Engineering College** (2023 – 2027), CGPA: 7.77.
-- 💻 Skilled in Java and Python development, with a strong interest in intelligent systems.
-- 🌐 Hands-on experience in web technologies through the **Infosys Virtual Internship** (Full Stack Web Development).
-- 🔍 Passionate about problem-solving, software development, and building AI-driven applications.
-- 📌 Currently seeking opportunities as a **Software Developer** to contribute to innovative projects.
-- 🗣️ Languages: Tamil, English
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 📟 J.A.R.V.I.S. LOG — SYSTEM BRIEFING
 
-<p align="left"> <a href="https://www.linkedin.com/in/tamilselvan-k-5b5aa3341"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="[Portfolio URL]"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/> </a> <a href="mailto:tamilselvansamykvp@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/> </a> <a href="https://leetcode.com/u/Tamil0219/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="tel:+919876543210"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> </p>
+```yaml
+> DESIGNATION:      Tamilselvan K
+> CLASSIFICATION:   B.Tech - Information Technology (2023 - 2027)
+> CURRENT_STATUS:   Active Development — CGPA 7.77
+> MISSION:          Seeking Software Developer role to build
+                     intelligent, innovative systems
+> PROTOCOL:         "I am Iron Man." — but for code.
+```
 
----
-
-# 🛠️ Tech Toolbox
-
-| Category | Stack |
-|---|---|
-| Languages | Java · Python (Basic) · SQL |
-| Web | HTML · CSS · JavaScript |
-| Database | MongoDB · MySQL |
-| AI/ML | Groq · Gemini |
-| Tools | GitHub · VS Code · Kiro |
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,py,html,css,js,mysql,mongodb,git,github,vscode"/>
-</p>
----
-
-# 🧠 How I Work
-| Strength | In Practice |
-|---|---|
-| 🗣️ Communication |	Explaining technical ideas clearly to both technical and non-technical people |
-| 🧩 Problem Solving | Breaking down complex requirements into manageable, logical steps |
-| 🤝 Teamwork |	Collaborating effectively in internships and academic group projects |
-| 🔁 Adaptability |	Quickly adapt to new people and technology to work |
-| 👨🏻‍💻 Leadership	| Guide teams effectively and i have experience in infosys |
+> *"Sometimes you gotta run before you can walk."* — Tony Stark
+> I'm still assembling my suit — one project, one line of code, one late-night debug session at a time.
 
 ---
 
-# 🚀 Projects
+## ⚙️ SUIT SPECIFICATIONS — TECH STACK
 
-## 🌍 [ AI Driven Adaptive Learning and Exam Generator]
+<div align="center">
 
-Built an AI-based learning platform that adapts study materials to learner performance and auto-generates exams at different difficulty levels — improving learning efficiency and reducing manual evaluation effort.
+**// CORE REPULSOR LANGUAGES //**
 
-**Tech Stack**
+![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=gold)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
 
-`Javascript` `Html` `node.js` `Express.js` `AI/ML`
+**// HUD & INTERFACE MODULES //**
 
-🔗 Live Demo:  https://smart-skill-ai.vercel.app/login 
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=gold)
+![CSS3](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=FFD700)
+![JavaScript](https://img.shields.io/badge/JavaScript-B22222?style=for-the-badge&logo=javascript&logoColor=gold)
 
-📂 Repository: https://github.com/Tamil0219/SmartSkillAi
+**// DATA CORE //**
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-8B0000?style=for-the-badge&logo=mongodb&logoColor=gold)
 
-## 🛒 [Smart Library Management System]
-
-Designed a system to automate library operations such as book issuing and return tracking, with efficient searching and record maintenance features.
-
-**Tech Stack**
-
-`Java` `MongoDB`
-
-📂 Repository:https://github.com/Tamil0219/Library-management-system-
+</div>
 
 ---
 
-## ✅ [Smart Sentiment Analysis of Play Store Reviews]
+## 🧪 STARK LABS — ACTIVE PROJECT FILES
 
-Developed a sentiment analysis system to classify Play Store reviews as positive, negative, or neutral using NLP techniques, helping improve app quality and user satisfaction.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack**
+### 🛰️ Mark I: Sentiment Analysis Engine
+**`Smart Sentiment Analysis of Play Store Reviews`**
 
-`Python` `NLP`
+Built an NLP-powered classifier that reads the room — sorting Play Store reviews into positive, negative, or neutral so devs know exactly where the suit needs an upgrade.
+
+`#NLP` `#Python` `#DataAnalysis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Mark II: Adaptive Learning A.I.
+**`AI Driven Adaptive Learning & Exam Generator`**
+
+An AI tutor that adapts study material to the learner in real time and auto-generates exams across difficulty levels — like J.A.R.V.I.S., but for exam prep.
+
+`#AI` `#EdTech` `#Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Mark III: Library Automation System
+**`Smart Library Management System`**
+
+Automated book issuing, return tracking, and record maintenance — because even Stark needs an organized archive.
+
+`#SystemDesign` `#Java` `#Database`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Mark IV: Full Stack Deployment
+**`Infosys Virtual Internship — Full Stack Dev`**
+
+Trained in frontend + backend development, shipping practical solutions and sharpening problem-solving under real project constraints.
+
+`#FullStack` `#Internship` `#Infosys`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📚 Currently Learning
+## 🎓 TRAINING FACILITY LOGS
 
-- 🚀 Building full-stack and AI-integrated applications.
-- 🌱 Learning advanced concepts in AI/ML.
-- ☁️ Exploring cloud deployment and DevOps.
-- 📱 Improving responsive UI/UX design.
-
----
-
-# 🛠 Currently Working On
-
-- AI/ML with Groq & Gemini
-- Web Development Frameworks
-- Database Design
+```
+[EDUCATION MODULE]
+├── V.S.B Engineering College                         2023 – 2027
+│   └── B.Tech Information Technology | CGPA: 7.77 | Karur
+│
+└── Sri Aanoor Vidyalaya Matric Hr. Sec. School        2023
+    └── Higher Secondary Education | Score: 65% | Muthur
+```
 
 ---
 
-# 🎯 Goals
+## 🏅 ARSENAL UPGRADES — CERTIFICATIONS
 
-- ✅ Contribute to Open Source
-- ✅ Build AI-powered Applications
-- ✅ Master Full Stack Development
-- ✅ Learn Cloud Computing
-- ✅ Grow My Developer Portfolio
+- 🥇 **NPTEL** — Programming in Java *(Elite)*
+- ☕ **Infosys Springboard** — Java Foundation
+- 🐍 **Infosys Springboard** — Python Foundation
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+## 📡 OPEN A COMMS CHANNEL WITH STARK TOWER
 
-<p align="center">
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
-</p>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email-tamilselvansamykvp%40gmail.com-c00000?style=for-the-badge&logo=gmail&logoColor=gold)](mailto:tamilselvansamykvp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-red?style=for-the-badge&logo=github&logoColor=gold)](#)
+[![Phone](https://img.shields.io/badge/Direct%20Line-%2B91%207904903727-1E1E1E?style=for-the-badge&logo=whatsapp&logoColor=gold)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Genius. Billionaire... okay, mostly just the genius part is a work in progress." ⚡
+
+![Profile Views](https://komarev.com/ghpvc/?username=tamilselvan-k&label=SUIT%20SCANS&color=c00000&style=for-the-badge)
+
+**`// END OF TRANSMISSION — POWERING DOWN ARC REACTOR //`**
+
+</div>
