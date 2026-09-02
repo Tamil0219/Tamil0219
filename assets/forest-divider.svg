@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40">
+  <defs>
+    <linearGradient id="rootGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#071A12;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#3FA34D;stop-opacity:0.6"/>
+      <stop offset="50%" style="stop-color:#7ED957;stop-opacity:1"/>
+      <stop offset="80%" style="stop-color:#3FA34D;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#071A12;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="leafGlow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Main root line -->
+  <line x1="0" y1="20" x2="900" y2="20" stroke="url(#rootGrad)" stroke-width="1.5"/>
+
+  <!-- Central node -->
+  <circle cx="450" cy="20" r="4" fill="#7ED957" filter="url(#leafGlow)">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Left nodes -->
+  <circle cx="300" cy="20" r="2.5" fill="#3FA34D" opacity="0.8"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="20" r="2" fill="#3FA34D" opacity="0.6"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/></circle>
+  <!-- Right nodes -->
+  <circle cx="600" cy="20" r="2.5" fill="#3FA34D" opacity="0.8"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="750" cy="20" r="2" fill="#3FA34D" opacity="0.6"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.8s" repeatCount="indefinite"/></circle>
+
+  <!-- Small branch roots downward -->
+  <g stroke="#3FA34D" stroke-width="1" fill="none" opacity="0.4">
+    <path d="M300,20 Q305,28 300,35"/>
+    <path d="M150,20 Q155,28 150,35"/>
+    <path d="M600,20 Q595,28 600,35"/>
+    <path d="M750,20 Q745,28 750,35"/>
+    <path d="M450,20 Q445,30 440,38"/>
+    <path d="M450,20 Q455,30 460,38"/>
+  </g>
+
+  <!-- Small leaf dots at branch tips -->
+  <g fill="#7ED957" filter="url(#leafGlow)">
+    <circle cx="300" cy="35" r="2" opacity="0.6"/>
+    <circle cx="150" cy="35" r="1.5" opacity="0.5"/>
+    <circle cx="600" cy="35" r="2" opacity="0.6"/>
+    <circle cx="750" cy="35" r="1.5" opacity="0.5"/>
+    <circle cx="440" cy="38" r="1.5" opacity="0.4"/>
+    <circle cx="460" cy="38" r="1.5" opacity="0.4"/>
+  </g>
+
+  <!-- Tiny floating particles -->
+  <g fill="#FFD700">
+    <circle cx="380" cy="12" r="1" opacity="0.5"><animate attributeName="cy" values="12;6;12" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="14" r="1" opacity="0.4"><animate attributeName="cy" values="14;8;14" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="10" r="1" opacity="0.3"><animate attributeName="cy" values="10;4;10" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="11" r="1" opacity="0.3"><animate attributeName="cy" values="11;5;11" dur="2.8s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
